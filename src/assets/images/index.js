@@ -20,12 +20,15 @@ import thumbnailBackground from './thumbnail-background.svg'
 import thumbnailShoe1 from './thumbnail-shoe1.svg'
 import thumbnailShoe2 from './thumbnail-shoe2.svg'
 import thumbnailShoe3 from './thumbnail-shoe3.svg'
+import Nike from "./nike-svgrepo-com.svg"
+import brand from "./brand-nike-svgrepo-com.svg"
 
 export {
     bigShoe1,
     bigShoe2,
     bigShoe3,
-
+    Nike,
+    brand,
     customer1,
     customer2,
 

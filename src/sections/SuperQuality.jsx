@@ -9,7 +9,7 @@ const SuperQuality = () => {
     >
       <div className="flex flex-1 flex-col">
         <h2 className="mt-10 font-palanquin text-4xl  lg:max-w-lg capitaiize font-bold">
-          <span className="xl:bg-white xl:whitespace-nowrap relative z-10 pr-10">
+          <span className="text-white xl:whitespace-nowrap relative z-10 pr-10">
             We Provide You
           </span>
           <br />
